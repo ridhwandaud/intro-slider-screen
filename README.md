@@ -3,7 +3,7 @@ This is an example of intro slider screen .
 
 
 # website reference
-* [www.androidhive.info]https://www.androidhive.info/2016/05/android-build-intro-slider-app/)
+* [www.androidhive.info] https://www.androidhive.info/2016/05/android-build-intro-slider-app/)
 
 # small changes make
 
